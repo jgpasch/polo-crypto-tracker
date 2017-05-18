@@ -1,0 +1,16 @@
+{
+  "name": "polo-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Paschal <jgpasch@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "autobahn": "^17.5.1",
+    "lodash": "^4.17.4",
+    "node-notifier": "^5.1.2"
+  }
+}
