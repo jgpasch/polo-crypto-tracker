@@ -1,3 +1,4 @@
+'use strict';
 const autobahn = require('autobahn');
 const notifier = require('node-notifier');
 const _ = require('lodash');
